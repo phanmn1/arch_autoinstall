@@ -24,3 +24,8 @@ sudo yay -S xorg-init xterm awesome
 
 ## Enable lightdm
 sudo systemctl enable lightdm
+
+## awesome libraries needed for config
+nitrogen 
+alacritty 
+
